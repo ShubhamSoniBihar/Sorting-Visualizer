@@ -40,7 +40,3 @@ Each algorithm is manually implemented in JavaScript inside the `/src/sortingAlg
 - Swaps
 - Sorted regions
 
----
-
-## 📁 Project Structure
-
